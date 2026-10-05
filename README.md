@@ -59,6 +59,10 @@ La plateforme présente notamment des opportunités d'études dans plusieurs des
 * 🇫🇷 France
 * 🇧🇪 Belgique
 * 🇨🇦 Canada
+* 🇮🇹 Italie
+* 🇨🇭 Suisse
+* 🇹🇷 Turquie
+* 🇨🇾 Chypre
 
 ---
 
@@ -248,13 +252,6 @@ La configuration comprenait notamment les paramètres DNS nécessaires au foncti
 ![Connexion](screenshots/connexion_se_connecter.png)
 ### Connexion-Inscription
 ![Connexion](screenshots/connexion_inscription.png)
-
-### Destinations
-
-### Formulaires
-
-### Espace administration
-
 
 ---
 
