@@ -264,11 +264,13 @@ La configuration comprenait notamment les paramètres DNS nécessaires au foncti
 ### FAQ
 ![FAQ](screenshots/faq.png)
 ### Demande de devis
-![Devis](screenshots/Devis.png)
+![Page demande de devis](screenshots/Devis.png)
 ### Connexion-SeConnecter
-![Connexion](screenshots/connexion_se_connecter.png)
+![Page de connexion](screenshots/connexion_se_connecter.png)
 ### Connexion-Inscription
-![Connexion](screenshots/connexion_inscription.png)
+![Page d'inscription](screenshots/connexion_inscription.png)
+### Inscription d'un mentor
+![Formulaire d'inscription d'un mentor ](screenshots/inscription_mentor.png)
 
 ---
 
