@@ -226,7 +226,7 @@ La configuration comprenait notamment les paramètres DNS nécessaires au foncti
 ### Services
 ![Service](screenshots/service_ÉtudesInternationalesShineAgency.png)
 ![Service](screenshots/service_LogementAccueil&InstallationShineAgency.png)
-![Service](screenshots/service_MobilitéGénéraleShineAgency.png)
+![Service](screenshots/service_MobilitéGénérale(Hors Études)ShineAgency.png)
 ![Service](screenshots/service_AccompagnementdesÉtablissements_ScolairesShineAgency.png)
 ![Service](screenshots/service_SoutienScolaireShine Agency.png)
 ### Bourses
