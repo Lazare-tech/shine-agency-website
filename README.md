@@ -222,7 +222,7 @@ La configuration comprenait notamment les paramètres DNS nécessaires au foncti
 ## 📸 Aperçu
 
 ### Accueil
-![Accueil](screenshots/accueil_ShineAgency.png)
+![Accueil](screenshots/ShineAgencyBoursesd'Études&Accompagnementàl'Étranger.png)
 ### Services
 ![Service](screenshots/service_ÉtudesInternationalesShineAgency.png)
 ![Service](screenshots/service_LogementAccueil&InstallationShineAgency.png)
