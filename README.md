@@ -233,13 +233,13 @@ La configuration comprenait notamment les paramètres DNS nécessaires au foncti
 ### Bourses
 ![Bourse](screenshots/Boursesd'Étudesàl'ÉtrangerTrouvezvotreFinancement.png)
 ### Mentorat
-![Mentorat](screenshots/Devenir_Mentor_&_Conseiller_Mobilité_Shine _Agency.png)
+![Mentorat](screenshots/Devenir_Mentor_&_Conseiller_Mobilité_Shine_Agency.png)
 ### Blog / Actualités
-![Blog](screenshots/Blog_Mobilité&ConseilsÉtudes _à _l'ÉtrangerShineAgency.png)
+![Blog](screenshots/Blog.png)
 ### A Propos
-![A Propos](screenshots/Àpropos _Shine AgencyExpertsMobilitéÉtudiante.png)
+![A Propos](screenshots/Apropos.png)
 ### Contact
-![Contact](screenshots/Contact_ ShineAgencyExpertiseMobilitéÉtudiante.png)
+![Contact](screenshots/Contact.png)
 ### FAQ
 ![FAQ](screenshots/ScreenshFAQ _Vosquestions_sur _lesÉtudesàl'ÉtrangerShineAgency.png)
 ### Demande de devis
