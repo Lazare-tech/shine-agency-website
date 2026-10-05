@@ -222,8 +222,31 @@ La configuration comprenait notamment les paramètres DNS nécessaires au foncti
 ## 📸 Aperçu
 
 ### Accueil
-
+![Accueil](screenshots/accueil.png)
 ### Services
+![Service](screenshots/service_ÉtudesInternationalesShineAgency.png)
+![Service](screenshots/service_LogementAccueil&InstallationShineAgency.png)
+![Service](screenshots/service_MobilitéGénérale(Hors Études)ShineAgency.png)
+![Service](screenshots/service_AccompagnementdesÉtablissements_ScolairesShineAgency.png)
+![Service](screenshots/service_SoutienScolaireShine Agency.png)
+### Bourses
+![Bourse](screenshots/Boursesd'Étudesàl'ÉtrangerTrouvezvotreFinancement.png)
+### Mentorat
+![Mentorat](screenshots/Devenir_Mentor_&_Conseiller_Mobilité_Shine _Agency.png)
+### Blog / Actualités
+![Blog](screenshots/Blog_Mobilité&ConseilsÉtudes _à _l'ÉtrangerShineAgency.png)
+### A Propos
+![A Propos](screenshots/Àpropos _Shine AgencyExpertsMobilitéÉtudiante.png)
+### Contact
+![Contact](screenshots/Contact_ ShineAgencyExpertiseMobilitéÉtudiante.png)
+### FAQ
+![FAQ](screenshots/ScreenshFAQ _Vosquestions_sur _lesÉtudesàl'ÉtrangerShineAgency.png)
+### Demande de devis
+![Devis](screenshots/Devis_Gratuitsous24hShine Agency - Études _à_l'Étranger.png)
+### Connexion-SeConnecter
+![Connexion](screenshots/connexion_se_connecter.png)
+### Connexion-Inscription
+![Connexion](screenshots/connexion_inscription.png)
 
 ### Destinations
 
@@ -231,7 +254,6 @@ La configuration comprenait notamment les paramètres DNS nécessaires au foncti
 
 ### Espace administration
 
-### Blog / Actualités
 
 ---
 
