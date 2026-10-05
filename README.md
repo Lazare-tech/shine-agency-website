@@ -233,7 +233,7 @@ La configuration comprenait notamment les paramètres DNS nécessaires au foncti
 ### Bourses
 ![Bourse](screenshots/Boursesd'Étudesàl'ÉtrangerTrouvezvotreFinancement.png)
 ### Mentorat
-![Mentorat](screenshots/Devenir_Mentor_&_Conseiller_Mobilité_Shine_Agency.png)
+![Mentorat](screenshots/mentorat.png)
 ### Blog / Actualités
 ![Blog](screenshots/Blog.png)
 ### A Propos
@@ -241,9 +241,9 @@ La configuration comprenait notamment les paramètres DNS nécessaires au foncti
 ### Contact
 ![Contact](screenshots/Contact.png)
 ### FAQ
-![FAQ](screenshots/ScreenshFAQ _Vosquestions_sur _lesÉtudesàl'ÉtrangerShineAgency.png)
+![FAQ](screenshots/faq.png)
 ### Demande de devis
-![Devis](screenshots/Devis_Gratuitsous24hShine Agency - Études _à_l'Étranger.png)
+![Devis](screenshots/Devis.png)
 ### Connexion-SeConnecter
 ![Connexion](screenshots/connexion_se_connecter.png)
 ### Connexion-Inscription
