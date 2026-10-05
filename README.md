@@ -230,18 +230,18 @@ La configuration comprenait notamment les paramètres DNS nécessaires au foncti
 
 ### Services
 
-## Service soutien scolaire
+### Service soutien scolaire
 ![Service](screenshots/service_SoutienScolaireShineAgency.png)
-# Exemple de detail de service de soutien scolaire
+### Exemple de detail de service de soutien scolaire
 ![Service](screenshots/service_soutien_scolaire_exempleSouscriptionOrientationscolaireetprofessionnelleSoutienScolaire.png)
 
-## Service etudes internationales
+### Service etudes internationales
 ![Service](screenshots/service_ÉtudesInternationalesShineAgency.png)
-## Service logement,accueil et installation
+### Service logement,accueil et installation
 ![Service](screenshots/service_LogementAccueil&InstallationShineAgency.png)
-## Service mobilite generale hors etudes
+### Service mobilite generale hors etudes
 ![Service](screenshots/service_MobilitéGénérale(HorsÉtudes)ShineAgency.png)
-## Service accompagnement des etablissements scolaires
+### Service accompagnement des etablissements scolaires
 ![Service](screenshots/service_AccompagnementdesÉtablissements_ScolairesShineAgency.png)
 
 
@@ -254,7 +254,7 @@ La configuration comprenait notamment les paramètres DNS nécessaires au foncti
 ### Blog / Actualités
 ![Blog](screenshots/Blog.png)
 
-# Blog / Exemple article
+### Blog / Exemple article
 ![Article de Blog](screenshots/blog_article.png)
 
 ### A Propos
