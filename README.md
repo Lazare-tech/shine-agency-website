@@ -227,19 +227,36 @@ La configuration comprenait notamment les paramètres DNS nécessaires au foncti
 
 ### Accueil
 ![Accueil](screenshots/ShineAgencyBoursesd'Études&Accompagnementàl'Étranger.png)
+
 ### Services
-![Service](screenshots/service_ÉtudesInternationalesShineAgency.png)
-![Service](screenshots/service_LogementAccueil&InstallationShineAgency.png)
-![Service](screenshots/service_MobilitéGénérale(HorsÉtudes)ShineAgency.png)
-![Service](screenshots/service_AccompagnementdesÉtablissements_ScolairesShineAgency.png)
+
+## Service soutien scolaire
 ![Service](screenshots/service_SoutienScolaireShineAgency.png)
+# Exemple de detail de service de soutien scolaire
+![Service](screenshots/service_soutien_scolaire_exempleSouscriptionOrientationscolaireetprofessionnelleSoutienScolaire.png)
+
+## Service etudes internationales
+![Service](screenshots/service_ÉtudesInternationalesShineAgency.png)
+## Service logement,accueil et installation
+![Service](screenshots/service_LogementAccueil&InstallationShineAgency.png)
+## Service mobilite generale hors etudes
+![Service](screenshots/service_MobilitéGénérale(HorsÉtudes)ShineAgency.png)
+## Service accompagnement des etablissements scolaires
+![Service](screenshots/service_AccompagnementdesÉtablissements_ScolairesShineAgency.png)
+
 
 ### Bourses
 ![Bourse](screenshots/Boursesd'Étudesàl'ÉtrangerTrouvezvotreFinancement.png)
+
 ### Mentorat
 ![Mentorat](screenshots/mentorat.png)
+
 ### Blog / Actualités
 ![Blog](screenshots/Blog.png)
+
+# Blog / Exemple article
+![Article de Blog](screenshots/blog_article.png)
+
 ### A Propos
 ![A Propos](screenshots/Apropos.png)
 ### Contact
